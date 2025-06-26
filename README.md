@@ -36,5 +36,7 @@ code, coder, coding, codeforces, codex, cooking, cook, cool, company, compare
 ## Author 
 
 Shanit Singhal
-shanitsinghal31@gmail.com
+<br>
+shanitsinghal31@gmail.com,
+<br>
 🔗 https://github.com/your-shanit-singhal/autocomplete-engine
